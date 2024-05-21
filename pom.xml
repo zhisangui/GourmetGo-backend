@@ -121,7 +121,7 @@
                 <version>${spring-boot.version}</version>
                 <configuration>
                     <mainClass>com.zhisangui.usercenter.UserCenterApplication</mainClass>
-                    <skip>false</skip>
+<!--                    <skip>false</skip>-->
                 </configuration>
 <!--                <executions>-->
 <!--                    <execution>-->
