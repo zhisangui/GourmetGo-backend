@@ -1,11 +1,11 @@
 spring:
   application:
-    name: user-center
+    name: GourmetGo
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
     password: 123456
-    url: jdbc:mysql://localhost:3306/yupi
+    url: jdbc:mysql://localhost:3306/order-sys
   session:
     timeout: 86400
 
